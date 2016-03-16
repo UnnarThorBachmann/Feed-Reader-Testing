@@ -69,7 +69,8 @@ memoizedFoo(10);
 ##5. Create a simple webpage that has a cow image in the middle (centered horizontally on the page) and a counter label below it. Add the necessary code so that every time you click the cow image, the counter is incremented by 1. The counter should start with a value of 0.
 
   Answer:
-  '''
+
+  ```
   <html>
   <style>
   img {
@@ -105,4 +106,3 @@ memoizedFoo(10);
 
 Solution: I would like to master the areas of web developement I have been introduced to here by Udacity. Also learn new Frameworks and learn from other people.
 Being a teacher I would like to help teachers and students to interconnect better using webpages.
-
